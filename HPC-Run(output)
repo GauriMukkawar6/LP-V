@@ -1,0 +1,5 @@
+Save the code in text editor by the name .cpp
+open terminal and run the command
+
+g++ demo.cpp -fopenmp -o output
+./output
